@@ -1,5 +1,5 @@
 # monillo-loco-
-juego 
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
